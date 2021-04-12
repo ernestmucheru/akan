@@ -42,8 +42,9 @@ DD - is the Day of the month
 mod - is the modulus function ( % )
 
 **Project Overview**
-![Screenshot from 2021-04-12 08-36-28](https://user-images.githubusercontent.com/81610268/114345615-ba567900-9b6a-11eb-9117-c0a83d5658e7.png)
-![Screenshot from 2021-04-12 08-36-35](https://user-images.githubusercontent.com/81610268/114345625-bf1b2d00-9b6a-11eb-85bd-ee8976ff963c.png)
+![Screenshot from 2021-04-12 08-42-06](https://user-images.githubusercontent.com/81610268/114346217-c4c54280-9b6b-11eb-9b49-aaaff631f062.png)
+![Screenshot from 2021-04-12 08-42-16](https://user-images.githubusercontent.com/81610268/114346225-c858c980-9b6b-11eb-8608-1d04b2d41d25.png)
+
 
 
 **Setup/Installation Requirements **
