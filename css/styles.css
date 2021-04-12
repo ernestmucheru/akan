@@ -60,11 +60,3 @@ body{
 .discover{
     color: royalblue;
 }
-.max-width{
-    max-width: 1300px;
-    padding: 10 80px;
-    margin: auto;
-}
-.discover .title::after{
-    content: "know your Akan name";
-}

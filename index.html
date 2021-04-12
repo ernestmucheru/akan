@@ -38,18 +38,39 @@
         </section>
         <div class="container">
             <section class="discover" id="discover">
-                <div class="maxwidth">
-                    <div class="discover">
-                        <h2 class="title">Discover</h2>
-                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Qui eligendi modi ut facilis iure corporis consequatur, nisi aspernatur nesciunt tempore quos sint voluptatum deserunt harum, earum, expedita eaque aliquam aut?
-                        Cumque, ea, sed illum vel commodi at facilis minus eos aperiam, pariatur impedit quibusdam reprehenderit. Eum sapiente quasi dolores beatae sed. Ducimus enim consectetur voluptatum dignissimos debitis suscipit voluptatibus expedita?
-                        Porro minus quod, laboriosam sunt eligendi nobis rem, praesentium obcaecati temporibus a explicabo cupiditate quae accusamus eaque doloremque. Ullam cumque mol</p>
-
-
-                    </div>
-                    </div>
-            </section>
-        </div>
+                <br>
+                <h2 class="title text-center">Discover</h2>
+                <hr>
+                <div class="col-md-6 right offset-sm-3" >
+                    <div class="panel col-sm-6 offset-sm-3">
+                        <div class="set">
+                            <label>Month</label><br />
+                            <input type="text" id="month" placeholder="Month in digits" required /><br /><br />
+                            <label>Day</label><br />
+                            <input type="text" id="day" placeholder="Day in digits" required /><br /><br />
+                            <label>Year</label><br />
+                            <input type="text" id="year" placeholder="Year in digits" required /><br /><br />
+                            <label>Gender</label><br />
+                            <input type="radio" name="gender" id="gender" value="male" checked /> Male
+                            <br />
+                            <input type="radio" name="gender" id="gender" value="female" /> Female
+                            <br /><br />
+                            <input type="submit" class="btn-1" value="Submit" onclick="output()" />
         
+                            <div id="outcome"></div>
+                        </div>
+                        <p id="display"></p>
+                        <br>
+                    </div>
+                </div>
+                
+                
+
+            </div>
+            
+            </section>
+           
+        
+            <script src="/js/main.js"></script>     
 </body>
 </html>
